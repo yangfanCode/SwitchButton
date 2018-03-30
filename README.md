@@ -4,4 +4,4 @@
 支持按住开关随手势左右滑动进行开关控制,
 
 使用也比较简单,
-![image](https://github.com/yangfanCode/SwitchButton/.png)
+![image](https://github.com/yangfanCode/SwitchButton/blob/master/switch.png)
